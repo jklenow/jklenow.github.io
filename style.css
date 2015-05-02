@@ -1,0 +1,37 @@
+body {
+    font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Arial, "Lucida Grande", Helvetica, Cambria, Georgia, "Times New Roman", Times, serif;
+}
+
+a {
+    text-decoration:None;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 2px;
+}
+h2 {
+    font-size: 18px;
+    margin-bottom: 4px;
+}
+
+p.pubs {
+    font-size:14px;
+}
+
+#header-frame {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+#header-frame p{
+    margin-top:8px;
+    margin-bottom:8px;
+}
+
+#main-frame {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
