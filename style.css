@@ -1,5 +1,6 @@
 body {
-    font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Arial, "Lucida Grande", Helvetica, Cambria, Georgia, "Times New Roman", Times, serif;
+    font-family:Helvetica, "Helvetica-Light", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Arial, "Lucida Grande", Cambria, Georgia,"Times New Roman", Times, serif;
+    color=#A9A9A9;
 }
 
 a {
@@ -7,11 +8,11 @@ a {
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 20px;
     margin-bottom: 2px;
 }
 h2 {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 4px;
 }
 
@@ -20,9 +21,9 @@ p.pubs {
 }
 
 #header-frame {
-    width: 600px;
+    width: 800px;
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 #header-frame p{
@@ -31,7 +32,7 @@ p.pubs {
 }
 
 #main-frame {
-    width: 600px;
+    width: 800px;
     margin: 0 auto;
     margin-top: 50px;
 }
